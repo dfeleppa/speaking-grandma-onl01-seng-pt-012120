@@ -14,4 +14,8 @@
 def speak_to_grandma(phrase)
   if phrase = shout
     puts "NO, NOT SINCE 1938!"
-  elseif
+  elseif phrase = "I LOVE YOU GRANDMA!"
+    puts "I LOVE YOU TOO PUMPKIN!"
+  else  
+    "HUH?! SPEAK UP, SONNY!"
+    
